@@ -1,0 +1,2 @@
+Command to make a virtual envrionment: 
+python -m venv dl
